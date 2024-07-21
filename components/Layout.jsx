@@ -20,13 +20,13 @@ const Layout = ({ children }) => {
         <title>ElectrAura</title>
         <meta
           name="description"
-          content="Ethan Smith is a Full-stack web developer with 10+ years of experience."
+          content="ElectrAura merges health and music with listen-to-earn $EAURA through a smart wearable mp3 player."
         />
         <meta
           name="keywords"
           content="react, next, nextjs, html, css, javascript, js, modern-ui, modern-ux, portfolio, framer-motion, 3d-website, particle-effect"
         />
-        <meta name="author" content="Sanidhya Kumar Verma" />
+        <meta name="author" content="ElectrAura" />
         <meta name="theme-color" content="#f13024" />
       </Head>
 
